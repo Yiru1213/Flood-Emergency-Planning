@@ -1,0 +1,9 @@
+{
+    "boundary_shape_file" : "./Material/shape/isle_of_wight.shp",
+    "road_links_shape_file" : "./Material/roads/links.shp",
+    "road_nodes_shape_file" : "./Material/roads/nodes.shp",
+    "itn_json_file" : "./Material/itn/solent_itn.json",
+    "dtm_asc_file" : "./Material/elevation/SZ.asc",
+    "background_tif_file" : "./Material/background/raster-50k_2724246.tif",
+    "buffer_size_meters" : 5000
+}
