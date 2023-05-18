@@ -16,7 +16,7 @@ The program will ask the user to enter their current location in British Nationa
 
 If it detects that the user has entered a non-number, it will ask the user to re-enter it. The user can keep entering new location coordinates and the program will recalculate the highest point within 5 km of the location and re-route it. If the user wants to end the program, he/she/they can type **quit**.
 
-![](images/%E5%9B%BE%E7%89%871.png){width="582"}
+![](images/flood_emergency_planning.png){width="664"}
 
 ### Contributors
 
