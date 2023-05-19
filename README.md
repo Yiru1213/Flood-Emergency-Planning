@@ -24,4 +24,4 @@ This project exists thanks to all the people who contribute:
 
 Adam Morgan,<br> Jia Shi,<br> Jiayun Kang,<br> Yiru Xu,<br> Zhongxian Wang
 
-Detailed illustration of the application and the code is in the PDF file Flood Emergency Planning Report.
+***Detailed illustration of the application code is in the PDF file Flood Emergency Planning Report.***
